@@ -38,6 +38,40 @@ software-box 致力于分享一些优秀的开源程序和客户端软件。比�
 - [一款使用云开发的开源微信小程序，答题小程序、知识竞赛小程、考试小程序、刷题小程序序， 活动答题小程序](https://gitee.com/wulivicor/exam
   )
 - [开源免费超级炫酷的大屏数据展示模版 覆盖10多个行业](https://gitee.com/lvyeyou/DaShuJuZhiDaPingZhanShi)
+- [MCMS 免费可商用的开源Java CMS内容管理系统](https://gitee.com/mingSoft/MCMS)
+- [KodExplorer可道云 基于Web技术的私有云和在线文件管理系统](https://gitee.com/kalcaddle/KODExplorer)
+- [🏆GoView 是一个Vue3搭建的低代码数据可视化开发平台](https://gitee.com/dromara/go-view)
+- [CatchAdmin 一款基于Laravel和Element Plus二次开发而成后台管理系统](https://gitee.com/jaguarjack/catchAdmin)
+- [🔥 fastposter海报生成器 一款快速开发海报的工具](https://gitee.com/psoho/fast-poster)
+- [likeadmin 一款同时提供4种编程语言的通用管理后台](https://www.likeadmin.cn/)
+- [91化简是一个开源免费的简历设计制作以及提供模板下载的网站](https://github.com/Hacker233/resume-design)
+- [肇新智慧物业 一款涵盖停车、安保、客服、工单、收费、财务、办公自动化等的智慧物业管理系统](https://gitee.com/fanhuibin1/zhaoxinpms)
+- [思通舆情 是一款开源免费的舆情系统，支持本地化部署。支持对海量的舆情数据进行交叉分析和深度挖掘](https://gitee.com/stonedtx/yuqing)
+- [Hutool是一个功能丰富且易用的Java工具库](https://hutool.cn/)
+- [flash-waimai 一个简单的外卖系统，包括手机端，后台管理，api](https://gitee.com/microapp/flash-waimai)
+- [Snowy（SnowyAdmin）是国内首个国密前后端分离快速开发平台，集成国密加解密插件](https://xiaonuo.vip/)
+- [☘ 致 力 于 让 " Web " 开 发 变 得 简 单 优 雅 Pear Admin](http://www.pearadmin.com/)
+- [GPTCMS基于TP6+Uniapp+VUE3开发的ChatGPT问答机器人](https://gitee.com/kt8cn/gptcms)
+- [芋道，以开发者为中心，打造中国第一流的快速开发平台，全部开源，个人与企业可 100% 免费使用](https://gitee.com/zhijiantianya/yudao-cloud)
+- [业界首个基于 SpringBoot3 开源IDaas/IAM平台，用于管理企业内员工账号、权限、身份认证、应用访问](https://gitee.com/topiam/eiam)
+- [WordPress 是一款广泛使用的开源内容管理系统（CMS），用于创建和管理网站和博客](https://wordpress.org/)
+- [MoChat 是开源的企业微信应用开发框架&引擎，是一套通用的企业微信管理系统](https://gitee.com/mochat/mochat)
+- [DataV Vue 大屏数据展示组件库](http://datav.jiaminghi.com/)
+- [FlashDB 是一款超轻量级的嵌入式数据库](https://gitee.com/armink/FlashDB)
+- [云雀 是一款数据集成工具，实现异构数据源的整合，帮助企业构建数据仓库、数据湖 等应用架构](https://gitee.com/LarkMidTable/yunque)
+- [LinkWeChat是国内首个基于企业微信的开源SCRM](https://gitee.com/LinkWeChat/link-wechat)
+- [JeeWMS基于JAVA的智能仓储管理系统（支持3PL（三方物流）和厂内物流），包含PDA端和WEB端](https://gitee.com/erzhongxmu/JEEWMS)
+- [咖啡壶（Chemex）是一个轻量的、现代设计风格的 ICT 资产管理系统](https://gitee.com/celaraze/chemex)
+- [JPress CMS，一个完整的 Java CMS 网站管理系统，目前已经有 10w+ 网站使用 JPress CMS 进行驱动](https://gitee.com/JPressProjects/jpress)
+- [DWSurvey是一款免费、高效、稳定的开源问卷表单系统](https://gitee.com/wkeyuan/dwsurvey-vue)
+- [ThinkCMF是一款支持Swoole的开源内容管理框架，基于ThinkPHP开发，同时支持PHP-FPM和Swoole双模式，让WEB开发更快](https://gitee.com/thinkcmf/ThinkCMF)
+- [Swoole MySQL Proxy 一个基于 MySQL 协议，Swoole 开发的MySQL数据库连接池](https://github.com/louislivi/SMProxy/releases/latest)
+- [WIFTADMIN 是一款基于 webman + Layui 开发的 http 服务框架](https://gitee.com/meystack/swiftadmin/)
+- [Dcat Admin 让后台开发更简单](https://gitee.com/jqhph/dcat-admin)
+- [ailchat 是一款插件化易拓展的开源 IM 应用](https://github.com/msgbyte/tailchat)
+- [SliderCaptcha 一款同时支持PC端及移动端的滑块验证码](https://gitee.com/LongbowEnterprise/SliderCaptcha)
+- [Bootstrap 风格的 Blazor UI 组件库](https://www.blazor.zone/index)
+- [kkFileView 使用Spring Boot构建文件文档在线预览项目解决方案](https://kkview.cn/zh-cn/index.html)
 
 ## 优秀工具软件
 - [51.4k star 一款漂亮功能强大的在线站点监控工具 - Uptime Kuma](https://github.com/louislam/uptime-kuma)
@@ -51,11 +85,24 @@ software-box 致力于分享一些优秀的开源程序和客户端软件。比�
 - [一键把网页打包成客户端软件，小白也能轻松搞定。支持 Mac / Windows / Linux。](https://github.com/tw93/Pake)
 - [xterminal 一款不仅是强大的SSH工具](https://www.xterminal.cn/)
 - [uTools ,新一代效率工具平台。呼之即来，即用即走，打造你的个人效率助理](https://www.u.tools/)
+- [FinalShell是一体化的的服务器,网络管理软件,不仅是ssh客户端,还是功能强大的开发,运维工具](http://www.hostbuf.com)
+- [渠成企业软件百宝箱 通过渠成应用市场，您可以一键安装企业级软件](https://www.qucheng.com/index.html)
+- [PhpWebStudy PHP和Web开发集成环境管理工具新宠儿，功能强大，颜值高，关键是开源免费](https://www.macphpstudy.com/index.html)
+- [Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议](https://gitee.com/dushixiang/next-terminal)
+- [Tiny RDM 轻量、开源、跨桌面平台支持 一个更现代化的Redis桌面管理客户端](https://redis.tinycraft.cc/)
+- [Another Redis Desktop Manager 更快、更好、更稳定的Redis桌面(GUI)管理客户端](https://github.com/qishibo/AnotherRedisDesktopManager)
 
 ## 服务器运维
 - [宝塔服务器面板，一键全能部署及管理,全球超过1300万台服务器安装使用宝塔](https://www.bt.cn/?invite_code=M193YWxxeHU=)
 - [堡塔云WAF防火墙，有效拦截sql注入、xss、一句话木马、防采集等常见渗透攻击](https://www.bt.cn/new/btwaf.html?invite_code=M193YWxxeHU=)
 - [1Panel 是新一代的 Linux 服务器运维管理面板](https://1panel.cn/)
+- [小皮Linux面板 一站式创建、管理多个网站，各种开源网站系统自动安装部署](https://beta.xp.cn/)
+- [Spug 面向中小型企业设计的轻量级无 Agent 的自动化运维平台](https://spug.cc/)
+- [OpenResty 是一个基于 Nginx 的高性能 Web 应用服务器，它将 Nginx 与 Lua 编程语言集成在一起，提供了强大的功能和灵活性](https://openresty.org/cn/)
+- [Netdata 是一款 Linux 性能实时监测工具](https://github.com/netdata/netdata)
+
+## 网络安全
+- [Web-Check是一款功能强大的一体化工具，用于查找有关网站/主机的信息](https://web-check.xyz/)
 
 ## 移动端UI组件库
 - [Varlet 是一个基于 Vue3 开发的 Material 风格移动端组件库](https://varlet.gitee.io/varlet-ui/#/zh-CN/index)
@@ -70,25 +117,33 @@ software-box 致力于分享一些优秀的开源程序和客户端软件。比�
 - [NutUI 京东风格的轻量级移动端组件库](https://nutui.jd.com/#/)
 - [Wot Design Uni 高颜值、轻量化的uni-app组件库](https://wot-design-uni.pages.dev/)
 
-## 小程序UI组件库
+## 小程序
 - [GraceUI 基于uni-app及小程序的超级前端框架](https://www.graceui.com/)
 - [FirstUI 多端统一开发UI组件库](https://www.firstui.cn/)
 - [uView UI，是全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水](https://www.uviewui.com/)
 - [Lin UI 是基于 微信小程序原生语法 实现的组件库。遵循简洁，易用的设计规范](https://doc.mini.talelin.com/)
 - [Vant 轻量、可靠的小程序 UI 组件库](https://gitee.com/vant-contrib/vant-weapp)
+- [Mpx 一款致力于提升小程序用户体验和开发体验的增强型小程序跨端框架](https://mpxjs.cn/)
 
 ## 物联网
 - [hummingbird（蜂鸟）是由Golang编写的超轻量级物联网平台](https://doc.hummingbird.winc-link.com/)
 - [开源智慧农业物联网平台](https://gitee.com/dnxt111/wisdom-v2.0)
+- [EMQX 是一款开源的大规模分布式 MQTT 消息服务器，功能丰富，专为物联网和实时通信应用而设计](https://docs.emqx.com/zh/emqx/latest/)
 
 ## 导航网站
 - [你的一站式人工智能工具集合网站，500+AI工具导航大全](https://ai-bot.cn/)
 - [木及简历是一款免费的在线 Markdown 生成的简历工具](https://www.mujicv.com/)
 - [Wetab定制你的浏览器主页](https://www.wetab.link/zh/)
 - [iTab 新标签页 免费无广告的组件式浏览器主页](https://itab.link/)
+- [MaixHub 做最懂边缘设备的模型在线训练、分享平台](https://maixhub.com/welcome)
 
 ## PHP框架
-- [webman 是一款基于workerman开发的高性能HTTP服务框架 一样的写发，让你性能提高十倍的框架](https://www.workerman.net/webman)
+- [webman 是一款基于workerman开发的高性能HTTP服务框架 一样的写发，十倍的框架](https://www.workerman.net/webman)
+- [imi 是一款支持长连接微服务分布式的 PHP 开发框架](https://www.imiphp.com/)
+- [ThinkPHP 是一个免费开源的，快速、简单的面向对象的轻量级PHP开发框架](https://www.thinkphp.cn/)
+- [EasySwoole是一款常驻内存型的分布式swoole框架](https://www.easyswoole.com/)
+- [Laravel 是一个具有表现力、优雅语法的 Web 应用程序框架](https://laravel.com/)
+
 
 ## Mac软件
 - [Thor Launcher是一款优秀的MAC自定义快捷键启动软件](https://apps.apple.com/us/app/thor-launcher/id1120999687?mt=12)
@@ -109,3 +164,4 @@ software-box 致力于分享一些优秀的开源程序和客户端软件。比�
 - [138k star Python - 100天从新手到大师教程](https://github.com/jackfrued/Python-100-Days)
 - [什么值得读是一个读书笔记以及精品好书推荐分享网站,为你推荐一本好书](https://daily.shenmezhidedu.com/)
 - [lesscode 一个当红的编程技术文档集合站点，简洁干净的站点](https://www.lesscode.work/)
+- [Java 全栈知识体系](https://www.pdai.tech/)
