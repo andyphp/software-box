@@ -87,6 +87,9 @@ software-box 致力于分享一些优秀的开源程序和客户端软件。比�
 - [Wetab定制你的浏览器主页](https://www.wetab.link/zh/)
 - [iTab 新标签页 免费无广告的组件式浏览器主页](https://itab.link/)
 
+## PHP框架
+- [webman 是一款基于workerman开发的高性能HTTP服务框架 一样的写发，让你性能提高十倍的框架](https://www.workerman.net/webman)
+
 ## Mac软件
 - [Thor Launcher是一款优秀的MAC自定义快捷键启动软件](https://apps.apple.com/us/app/thor-launcher/id1120999687?mt=12)
 - [Proxyman 一款优秀漂亮强大的抓包软件](https://proxyman.io/)
