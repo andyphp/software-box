@@ -37,6 +37,7 @@ software-box 致力于分享一些优秀的开源程序和客户端软件。比�
 - [Tango 用于快速构建低代码平台的低代码设计器框架](https://netease.github.io/tango/)
 - [一款使用云开发的开源微信小程序，答题小程序、知识竞赛小程、考试小程序、刷题小程序序， 活动答题小程序](https://gitee.com/wulivicor/exam
   )
+- [开源免费超级炫酷的大屏数据展示模版 覆盖10多个行业](https://gitee.com/lvyeyou/DaShuJuZhiDaPingZhanShi)
 
 ## 优秀工具软件
 - [51.4k star 一款漂亮功能强大的在线站点监控工具 - Uptime Kuma](https://github.com/louislam/uptime-kuma)
